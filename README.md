@@ -4,7 +4,7 @@
 ### Team Details
 #### **Team Name** Ignite <br/>
 #### Team Members
-|         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |     ⚧️ Hostel   |
+|         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |     🏠 Hostel   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:|:---------------:| 
 |   Team Leader   |     Aadrika Bhardwaj    |    CB.AI.U4QTS26001    |      F          |     AID/QTS                     |      Savitri    |  
 |    Member 2     |     R Samyukta          |    CB.EN.U4ELC26135    |      M          |     EEE/ELC                     |      Savitri    |  
